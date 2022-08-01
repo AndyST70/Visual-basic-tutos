@@ -1,0 +1,12 @@
+C:\Users\andye\source\repos\app1\app1\bin\Debug\app1.exe.config
+C:\Users\andye\source\repos\app1\app1\bin\Debug\app1.exe
+C:\Users\andye\source\repos\app1\app1\bin\Debug\app1.pdb
+C:\Users\andye\source\repos\app1\app1\bin\Debug\app1.xml
+C:\Users\andye\source\repos\app1\app1\obj\Debug\app1.vbproj.AssemblyReference.cache
+C:\Users\andye\source\repos\app1\app1\obj\Debug\app1.Form1.resources
+C:\Users\andye\source\repos\app1\app1\obj\Debug\app1.Resources.resources
+C:\Users\andye\source\repos\app1\app1\obj\Debug\app1.vbproj.GenerateResource.cache
+C:\Users\andye\source\repos\app1\app1\obj\Debug\app1.vbproj.CoreCompileInputs.cache
+C:\Users\andye\source\repos\app1\app1\obj\Debug\app1.exe
+C:\Users\andye\source\repos\app1\app1\obj\Debug\app1.xml
+C:\Users\andye\source\repos\app1\app1\obj\Debug\app1.pdb
